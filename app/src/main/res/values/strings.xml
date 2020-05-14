@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="name">Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="booking_details">Booking Details</string>
+    <string name="number_of_pax">Number of pax</string>
+    <string name="date_of_booking">Date of booking</string>
+    <string name="time_of_booking">Time of booking</string>
+    <string name="check_for_smoking_area">Check for smoking area</string>
+    <string name="submit">Submit Reservation</string>
+    <string name="reset">Reset</string>
+</resources>
